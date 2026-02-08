@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>八思巴文词典</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>八思巴文—汉字对照词典</h1>
+
+<div class="panel">
+  <label>选择碑文：</label>
+  <select id="stele">
+    <option value="stele1">龙门神禹庙圣旨碑（至元十二年1275）</option>
+    <option value="stele2">重阳万寿宫圣旨碑（至元十七年1280）</option>
+    <option value="stele3">儒学免役圣旨碑，又称江淮免秀才杂泛差役诏书碑（至元二十五年1288）</option>
+    <option value="stele4">加封北岳庙圣旨碑（至元二十八年，1291年，增p37，版六）</option>
+    <option value="stele5">文宣王庙圣旨碑（又称孔子庙学圣旨碑。至元三十一年1294）（增p39，版八）</option>
+  </select>
+
+  <label>查询方向：</label>
+  <select id="direction">
+    <option value="baspas">八思巴 → 汉字</option>
+    <option value="latin">拉丁转写 → 汉字</option>
+    <option value="chinese">汉字 → 八思巴</option>
+  </select>
+
+  <input id="keyword" placeholder="请输入查询内容">
+
+  <button id="searchBtn">查询</button>
+</div>
+
+<table>
+  <thead>
+    <tr>
+      <th>八思巴字</th>
+      <th>拉丁转写</th>
+      <th>标代码</th>
+      <th>汉字</th>
+    </tr>
+  </thead>
+  <tbody id="resultBody"></tbody>
+</table>
+
+<script src="app.js"></script>
+</body>
+</html>

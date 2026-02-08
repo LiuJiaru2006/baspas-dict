@@ -1,0 +1,71 @@
+@font-face {
+  font-family: "PhagsPa";
+  src: url("fonts/pspa12_.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IpaPan";
+  src: url("fonts/IpaPan.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "IpaPanNew";
+  src: url("fonts/IpaPanNew.ttf") format("truetype");
+}
+
+
+/* 八思巴字 */
+table td:nth-child(1) {
+  font-family: "IpaPanNew", serif;
+  font-size: 24px;
+  line-height: 1.4;
+}
+
+/* 拉丁转写 */
+table td:nth-child(2) {
+  font-family: "IpaPan", "Charis SIL", serif;
+  font-size: 18px;
+}
+
+/* 汉字 */
+table td:nth-child(4) {
+  font-family: "Microsoft YaHei", "PingFang SC", sans-serif;
+}
+
+
+body {
+  font-family: Arial, "Microsoft YaHei", sans-serif;
+  margin: 30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.panel {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.panel select,
+.panel input,
+.panel button {
+  margin: 5px;
+  padding: 6px;
+  font-size: 14px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: center;
+}
+
+tbody tr:nth-child(even) {
+  background: #f5f5f5;
+}

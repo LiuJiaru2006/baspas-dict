@@ -1,0 +1,1676 @@
+[
+  {
+    "baspas": "ꡚꡃ",
+    "latin": "š1aN",
+    "code": "5.1.1",
+    "chinese": "上"
+  },
+  {
+    "baspas": "ꡉ꡺ꡋ",
+    "latin": "tÁen",
+    "code": "5.1.2",
+    "chinese": "天"
+  },
+  {
+    "baspas": "ꡂꡦ꡾ꡋ",
+    "latin": "gėon",
+    "code": "5.1.3",
+    "chinese": "眷"
+  },
+  {
+    "baspas": "ꡏ꡴ꡃ",
+    "latin": "miN",
+    "code": "5.1.4",
+    "chinese": "命"
+  },
+  {
+    "baspas": "ꡣ꡾ꡃ",
+    "latin": "ÄoN",
+    "code": "5.2.1",
+    "chinese": "皇"
+  },
+  {
+    "baspas": "ꡊ꡴",
+    "latin": "di",
+    "code": "5.2.2",
+    "chinese": "帝"
+  },
+  {
+    "baspas": "ꡚ꡴ꡃ",
+    "latin": "š1iN",
+    "code": "5.2.3",
+    "chinese": "圣"
+  },
+  {
+    "baspas": "ꡆ꡴",
+    "latin": "dži",
+    "code": "5.2.4",
+    "chinese": "旨"
+  },
+  {
+    "baspas": "ꡗꡦ꡶",
+    "latin": "jėu",
+    "code": "5.2.5",
+    "chinese": "谕"
+  },
+  {
+    "baspas": "ꡆ꡶ꡃ",
+    "latin": "džuN",
+    "code": "5.2.6",
+    "chinese": "中"
+  },
+  {
+    "baspas": "ꡝ꡶꡺",
+    "latin": "'ue",
+    "code": "5.2.7",
+    "chinese": "外"
+  },
+  {
+    "baspas": "ꡎꡗ",
+    "latin": "baj",
+    "code": "5.2.8",
+    "chinese": "百"
+  },
+  {
+    "baspas": "ꡛꡜ꡴",
+    "latin": "shi",
+    "code": "5.2.9",
+    "chinese": "司"
+  },
+  {
+    "baspas": "ꡂ꡾ꡋ",
+    "latin": "gon",
+    "code": "5.2.10",
+    "chinese": "官"
+  },
+  {
+    "baspas": "ꡙ꡴",
+    "latin": "li",
+    "code": "5.2.11",
+    "chinese": "吏"
+  },
+  {
+    "baspas": "ꡔ꡴ꡋ",
+    "latin": "žin",
+    "code": "5.2.12",
+    "chinese": "人"
+  },
+  {
+    "baspas": "ꡊꡜ꡴ꡃ",
+    "latin": "dhiN",
+    "code": "5.2.13",
+    "chinese": "等"
+  },
+  {
+    "baspas": "ꡁ꡶ꡃ",
+    "latin": "kÁuN",
+    "code": "5.2.14",
+    "chinese": "孔"
+  },
+  {
+    "baspas": "ꡒꡜ꡴",
+    "latin": "dzhi",
+    "code": "5.2.15",
+    "chinese": "子"
+  },
+  {
+    "baspas": "ꡆ꡴",
+    "latin": "dži",
+    "code": "5.2.16",
+    "chinese": "之"
+  },
+  {
+    "baspas": "ꡈꡓ",
+    "latin": "taw",
+    "code": "5.2.17",
+    "chinese": "道"
+  },
+  {
+    "baspas": "ꡚ꡶꡺",
+    "latin": "š1ue",
+    "code": "5.2.18",
+    "chinese": "垂"
+  },
+  {
+    "baspas": "ꡲꡦꡋ",
+    "latin": "ħėn",
+    "code": "5.2.19",
+    "chinese": "宪"
+  },
+  {
+    "baspas": "ꡓꡋ",
+    "latin": "wan",
+    "code": "5.2.20",
+    "chinese": "万"
+  },
+  {
+    "baspas": "ꡚ꡴",
+    "latin": "š1i",
+    "code": "5.2.21",
+    "chinese": "世"
+  },
+  {
+    "baspas": "ꡃ꡴ꡓ",
+    "latin": "Niw",
+    "code": "5.2.22",
+    "chinese": "有"
+  },
+  {
+    "baspas": "ꡂ꡶꡺",
+    "latin": "gue",
+    "code": "5.2.23",
+    "chinese": "国"
+  },
+  {
+    "baspas": "ꡂꡦ",
+    "latin": "gė",
+    "code": "5.2.24",
+    "chinese": "家"
+  },
+  {
+    "baspas": "ꡆ ꡦ",
+    "latin": "džė",
+    "code": "5.2.25",
+    "chinese": "者"
+  },
+  {
+    "baspas": "ꡚ꡶",
+    "latin": "š1u",
+    "code": "5.2.26",
+    "chinese": "所"
+  },
+  {
+    "baspas": "ꡊꡃ",
+    "latin": "daN",
+    "code": "5.2.27",
+    "chinese": "当"
+  },
+  {
+    "baspas": "ꡄ꡶ꡃ",
+    "latin": "tšuN",
+    "code": "5.2.28",
+    "chinese": "崇"
+  },
+  {
+    "baspas": "꡿꡶ꡃ",
+    "latin": "ħu»uN",
+    "code": "5.2.29",
+    "chinese": "奉"
+  },
+  {
+    "baspas": "ꡁꡦ꡶",
+    "latin": "kÁėu",
+    "code": "5.2.30",
+    "chinese": "曲"
+  },
+  {
+    "baspas": "꡿꡾ꡓ",
+    "latin": "ħu»ow",
+    "code": "5.2.31",
+    "chinese": "阜"
+  },
+  {
+    "baspas": "ꡙ꡴ꡏ",
+    "latin": "lim",
+    "code": "5.2.32",
+    "chinese": "林"
+  },
+  {
+    "baspas": "ꡏ꡺ꡓ",
+    "latin": "mew",
+    "code": "5.2.33",
+    "chinese": "庙"
+  },
+  {
+    "baspas": "ꡚꡃ",
+    "latin": "š1aN",
+    "code": "5.2.34",
+    "chinese": "上"
+  },
+  {
+    "baspas": "ꡊ꡶",
+    "latin": "du",
+    "code": "5.2.35",
+    "chinese": "都"
+  },
+  {
+    "baspas": "ꡈꡗ",
+    "latin": "taj",
+    "code": "5.2.36",
+    "chinese": "大"
+  },
+  {
+    "baspas": "ꡊ꡶",
+    "latin": "du",
+    "code": "5.2.37",
+    "chinese": "都"
+  },
+  {
+    "baspas": "ꡆ ꡦ꡶",
+    "latin": "džėu",
+    "code": "5.2.38",
+    "chinese": "诸"
+  },
+  {
+    "baspas": "ꡙ꡶",
+    "latin": "lu",
+    "code": "5.2.39",
+    "chinese": "路"
+  },
+  {
+    "baspas": "꡿꡶",
+    "latin": "ħu»u",
+    "code": "5.2.40",
+    "chinese": "府"
+  },
+  {
+    "baspas": "ꡆ꡴ꡓ",
+    "latin": "džiw",
+    "code": "5.2.41",
+    "chinese": "州"
+  },
+  {
+    "baspas": "ꡲꡧꡦꡋ",
+    "latin": "ħu»ėn",
+    "code": "5.3.1",
+    "chinese": "县"
+  },
+  {
+    "baspas": "ꡖ꡴",
+    "latin": "·i",
+    "code": "5.3.2",
+    "chinese": "邑"
+  },
+  {
+    "baspas": "ꡖ꡴ꡃ",
+    "latin": "·iN",
+    "code": "5.3.3",
+    "chinese": "应"
+  },
+  {
+    "baspas": "ꡚꡦ",
+    "latin": "š1ė",
+    "code": "5.3.4",
+    "chinese": "设"
+  },
+  {
+    "baspas": "ꡏ꡺ꡓ",
+    "latin": "mew",
+    "code": "5.3.5",
+    "chinese": "庙"
+  },
+  {
+    "baspas": "ꡲꡦꡓ",
+    "latin": "ħėw",
+    "code": "5.3.6",
+    "chinese": "学"
+  },
+  {
+    "baspas": "ꡚꡦ꡶",
+    "latin": "š1ėu",
+    "code": "5.3.7",
+    "chinese": "书"
+  },
+  {
+    "baspas": "ꡝꡧꡦꡋ",
+    "latin": "u»ėn",
+    "code": "5.3.8",
+    "chinese": "院"
+  },
+  {
+    "baspas": "ꡆ꡺ꡓ",
+    "latin": "džew",
+    "code": "5.3.9",
+    "chinese": "照"
+  },
+  {
+    "baspas": "ꡖ꡴",
+    "latin": "·i",
+    "code": "5.3.10",
+    "chinese": "依"
+  },
+  {
+    "baspas": "ꡚ꡴",
+    "latin": "š1i",
+    "code": "5.4.1",
+    "chinese": "世"
+  },
+  {
+    "baspas": "ꡒ꡶",
+    "latin": "dzu",
+    "code": "5.4.2",
+    "chinese": "祖"
+  },
+  {
+    "baspas": "ꡣ꡾ꡃ",
+    "latin": "ÄoN",
+    "code": "5.4.3",
+    "chinese": "皇"
+  },
+  {
+    "baspas": "ꡊ꡴",
+    "latin": "di",
+    "code": "5.4.4",
+    "chinese": "帝"
+  },
+  {
+    "baspas": "ꡚ꡴ꡃ",
+    "latin": "š1iN",
+    "code": "5.4.5",
+    "chinese": "圣"
+  },
+  {
+    "baspas": "ꡆ꡴",
+    "latin": "dži",
+    "code": "5.4.6",
+    "chinese": "旨"
+  },
+  {
+    "baspas": "ꡂ꡴ꡏ",
+    "latin": "gim",
+    "code": "5.4.7",
+    "chinese": "禁"
+  },
+  {
+    "baspas": "ꡖ꡺ꡓ",
+    "latin": "·ew",
+    "code": "5.4.8",
+    "chinese": "约"
+  },
+  {
+    "baspas": "ꡆ ꡦ꡶",
+    "latin": "džėu",
+    "code": "5.4.9",
+    "chinese": "诸"
+  },
+  {
+    "baspas": "ꡂ꡾ꡋ",
+    "latin": "gon",
+    "code": "5.4.10",
+    "chinese": "官"
+  },
+  {
+    "baspas": "ꡝꡧꡦꡋ",
+    "latin": "'u»ėn",
+    "code": "5.4.11",
+    "chinese": "员"
+  },
+  {
+    "baspas": "ꡚꡜ꡴",
+    "latin": "š1hi",
+    "code": "5.4.12",
+    "chinese": "使"
+  },
+  {
+    "baspas": "ꡚ꡴ꡋ",
+    "latin": "š1in",
+    "code": "5.4.13",
+    "chinese": "臣"
+  },
+  {
+    "baspas": "ꡂꡦ꡶ꡋ",
+    "latin": "gėun",
+    "code": "5.4.14",
+    "chinese": "军"
+  },
+  {
+    "baspas": "ꡏ",
+    "latin": "ma",
+    "code": "5.4.15",
+    "chinese": "马"
+  },
+  {
+    "baspas": "ꡓ꡶",
+    "latin": "wu",
+    "code": "5.4.16",
+    "chinese": "毋"
+  },
+  {
+    "baspas": "ꡊꡜ꡴ꡗ",
+    "latin": "dhij",
+    "code": "5.4.17",
+    "chinese": "得"
+  },
+  {
+    "baspas": "ꡖꡦ꡶",
+    "latin": "·ėu",
+    "code": "5.4.18",
+    "chinese": "於"
+  },
+  {
+    "baspas": "ꡋ꡶꡺",
+    "latin": "nue",
+    "code": "5.4.19",
+    "chinese": "内"
+  },
+  {
+    "baspas": "ꡖꡋ",
+    "latin": "·an",
+    "code": "5.4.20",
+    "chinese": "安"
+  },
+  {
+    "baspas": "ꡲꡦ",
+    "latin": "ħė",
+    "code": "5.4.21",
+    "chinese": "下"
+  },
+  {
+    "baspas": "ꡣ꡶꡺",
+    "latin": "Äue",
+    "code": "5.4.22",
+    "chinese": "或"
+  },
+  {
+    "baspas": "ꡐꡦ꡶",
+    "latin": "tsėu",
+    "code": "5.4.23",
+    "chinese": "聚"
+  },
+  {
+    "baspas": "ꡐ꡴",
+    "latin": "tsi",
+    "code": "5.4.24",
+    "chinese": "集"
+  },
+  {
+    "baspas": "ꡙ꡴",
+    "latin": "li",
+    "code": "5.4.25",
+    "chinese": "理"
+  },
+  {
+    "baspas": "ꡓ꡶ꡋ",
+    "latin": "wun",
+    "code": "5.4.26",
+    "chinese": "问"
+  },
+  {
+    "baspas": "ꡕꡜ꡴",
+    "latin": "zhi",
+    "code": "5.4.27",
+    "chinese": "词"
+  },
+  {
+    "baspas": "ꡕ ꡦ꡶ꡃ",
+    "latin": "zėuN",
+    "code": "5.4.28",
+    "chinese": "讼"
+  },
+  {
+    "baspas": "ꡛꡦ",
+    "latin": "sė",
+    "code": "5.4.29",
+    "chinese": "亵"
+  },
+  {
+    "baspas": "ꡈ꡶",
+    "latin": "tu",
+    "code": "5.4.30",
+    "chinese": "渎"
+  },
+  {
+    "baspas": "ꡖ꡴ꡏ",
+    "latin": "·im",
+    "code": "5.4.31",
+    "chinese": "饮"
+  },
+  {
+    "baspas": "ꡗꡦꡋ",
+    "latin": "jėn",
+    "code": "5.4.32",
+    "chinese": "宴"
+  },
+  {
+    "baspas": "ꡂ꡶ꡃ",
+    "latin": "guN",
+    "code": "5.4.33",
+    "chinese": "工"
+  },
+  {
+    "baspas": "ꡗꡧ꡴",
+    "latin": "ju»i",
+    "code": "5.4.34",
+    "chinese": "役"
+  },
+  {
+    "baspas": "ꡐꡓ",
+    "latin": "tsaw",
+    "code": "5.4.35",
+    "chinese": "造"
+  },
+  {
+    "baspas": "ꡒꡓ",
+    "latin": "dzaw",
+    "code": "5.4.36",
+    "chinese": "作"
+  },
+  {
+    "baspas": "ꡚ꡴ꡓ",
+    "latin": "š1iw",
+    "code": "5.4.37",
+    "chinese": "收"
+  },
+  {
+    "baspas": "ꡆ ꡦ꡶",
+    "latin": "džėu",
+    "code": "5.4.38",
+    "chinese": "貯"
+  },
+  {
+    "baspas": "ꡂ꡾ꡋ",
+    "latin": "gon",
+    "code": "5.4.39",
+    "chinese": "官"
+  },
+  {
+    "baspas": "ꡓ꡶",
+    "latin": "wu",
+    "code": "5.4.40",
+    "chinese": "物"
+  },
+  {
+    "baspas": "ꡀ꡴",
+    "latin": "ki",
+    "code": "5.4.41",
+    "chinese": "其"
+  },
+  {
+    "baspas": "ꡚ꡺ꡏ",
+    "latin": "š1em",
+    "code": "5.5.1",
+    "chinese": "赡"
+  },
+  {
+    "baspas": "ꡲꡦꡓ",
+    "latin": "ħėw",
+    "code": "5.5.2",
+    "chinese": "学"
+  },
+  {
+    "baspas": "ꡈ꡴",
+    "latin": "ti",
+    "code": "5.5.3",
+    "chinese": "地"
+  },
+  {
+    "baspas": "ꡉ꡶",
+    "latin": "tÁu",
+    "code": "5.5.4",
+    "chinese": "土"
+  },
+  {
+    "baspas": "ꡚꡋ",
+    "latin": "š1an",
+    "code": "5.5.5",
+    "chinese": "产"
+  },
+  {
+    "baspas": "ꡃ꡺",
+    "latin": "Ne",
+    "code": "5.5.6",
+    "chinese": "业"
+  },
+  {
+    "baspas": "ꡀ꡴",
+    "latin": "ki",
+    "code": "5.5.7",
+    "chinese": "及"
+  },
+  {
+    "baspas": "ꡂ꡶ꡃ",
+    "latin": "guN",
+    "code": "5.5.8",
+    "chinese": "贡"
+  },
+  {
+    "baspas": "ꡄꡜ꡴",
+    "latin": "tšhi",
+    "code": "5.5.9",
+    "chinese": "士"
+  },
+  {
+    "baspas": "ꡆꡜꡃ",
+    "latin": "džhaN",
+    "code": "5.5.10",
+    "chinese": "庄"
+  },
+  {
+    "baspas": "ꡆ ꡦ꡶",
+    "latin": "džėu",
+    "code": "5.5.11",
+    "chinese": "诸"
+  },
+  {
+    "baspas": "ꡔ꡴ꡋ",
+    "latin": "žin",
+    "code": "5.5.12",
+    "chinese": "人"
+  },
+  {
+    "baspas": "ꡓ꡶",
+    "latin": "wu",
+    "code": "5.5.13",
+    "chinese": "毋"
+  },
+  {
+    "baspas": "ꡊꡜ꡴ꡗ",
+    "latin": "dhij",
+    "code": "5.5.14",
+    "chinese": "得"
+  },
+  {
+    "baspas": "ꡑ꡴ꡏ",
+    "latin": "tsÁim",
+    "code": "5.5.15",
+    "chinese": "侵"
+  },
+  {
+    "baspas": "ꡈꡧ꡼",
+    "latin": "tu»o",
+    "code": "5.5.16",
+    "chinese": "夺"
+  },
+  {
+    "baspas": "ꡚ꡶",
+    "latin": "š1u",
+    "code": "5.5.17",
+    "chinese": "所"
+  },
+  {
+    "baspas": "ꡅꡦ꡶",
+    "latin": "tšėÁu",
+    "code": "5.5.18",
+    "chinese": "出"
+  },
+  {
+    "baspas": "ꡐ꡺ꡋ",
+    "latin": "tsen",
+    "code": "5.5.19",
+    "chinese": "钱"
+  },
+  {
+    "baspas": "ꡙꡦꡃ",
+    "latin": "lėN",
+    "code": "5.5.20",
+    "chinese": "粮"
+  },
+  {
+    "baspas": "ꡗ꡴",
+    "latin": "ji",
+    "code": "5.5.21",
+    "chinese": "以"
+  },
+  {
+    "baspas": "ꡂꡦ꡶ꡃ",
+    "latin": "gėuN",
+    "code": "5.5.22",
+    "chinese": "供"
+  },
+  {
+    "baspas": "ꡅꡦ꡶ꡋ",
+    "latin": "tšÁėun",
+    "code": "5.5.23",
+    "chinese": "春"
+  },
+  {
+    "baspas": "ꡑ꡴ꡓ",
+    "latin": "tsÁiw",
+    "code": "5.5.24",
+    "chinese": "秋"
+  },
+  {
+    "baspas": "ꡔ꡴",
+    "latin": "ži",
+    "code": "5.5.25",
+    "chinese": "二"
+  },
+  {
+    "baspas": "ꡊ꡴ꡃ",
+    "latin": "diN",
+    "code": "5.5.26",
+    "chinese": "丁"
+  },
+  {
+    "baspas": "ꡚꡧꡓ",
+    "latin": "š1u»aw",
+    "code": "5.5.27",
+    "chinese": "朔"
+  },
+  {
+    "baspas": "ꡓꡃ",
+    "latin": "waN",
+    "code": "5.5.28",
+    "chinese": "望"
+  },
+  {
+    "baspas": "ꡒ꡴",
+    "latin": "dzi",
+    "code": "5.5.29",
+    "chinese": "祭"
+  },
+  {
+    "baspas": "ꡕꡜ꡴",
+    "latin": "zhi",
+    "code": "5.5.30",
+    "chinese": "祀"
+  },
+  {
+    "baspas": "ꡀ꡴",
+    "latin": "ki",
+    "code": "5.5.31",
+    "chinese": "及"
+  },
+  {
+    "baspas": "ꡚꡜ꡴",
+    "latin": "š1hi",
+    "code": "5.5.32",
+    "chinese": "师"
+  },
+  {
+    "baspas": "ꡚꡜ꡴ꡃ",
+    "latin": "š1hiN",
+    "code": "5.5.33",
+    "chinese": "生"
+  },
+  {
+    "baspas": "ꡙ꡴ꡏ",
+    "latin": "lim",
+    "code": "5.5.34",
+    "chinese": "廪"
+  },
+  {
+    "baspas": "ꡚ꡺ꡋ",
+    "latin": "š1en",
+    "code": "5.5.35",
+    "chinese": "饍"
+  },
+  {
+    "baspas": "ꡌ꡴ꡋ",
+    "latin": "pin",
+    "code": "5.5.36",
+    "chinese": "贫"
+  },
+  {
+    "baspas": "ꡣꡋ",
+    "latin": "Äan",
+    "code": "5.5.37",
+    "chinese": "寒"
+  },
+  {
+    "baspas": "ꡙꡓ",
+    "latin": "law",
+    "code": "5.5.38",
+    "chinese": "老"
+  },
+  {
+    "baspas": "ꡌ꡴ꡃ",
+    "latin": "piN",
+    "code": "5.5.39",
+    "chinese": "病"
+  },
+  {
+    "baspas": "ꡆ꡴",
+    "latin": "dži",
+    "code": "5.5.40",
+    "chinese": "之"
+  },
+  {
+    "baspas": "ꡄꡜ꡴",
+    "latin": "tšhi",
+    "code": "5.6.1",
+    "chinese": "士"
+  },
+  {
+    "baspas": "ꡝ꡶꡺",
+    "latin": "'ue",
+    "code": "5.6.2",
+    "chinese": "为"
+  },
+  {
+    "baspas": "ꡆ꡶ꡃ",
+    "latin": "džuN",
+    "code": "5.6.3",
+    "chinese": "众"
+  },
+  {
+    "baspas": "ꡚ꡶",
+    "latin": "š1u",
+    "code": "5.6.4",
+    "chinese": "所"
+  },
+  {
+    "baspas": "ꡒ꡶ꡋ",
+    "latin": "dzun",
+    "code": "5.6.5",
+    "chinese": "尊"
+  },
+  {
+    "baspas": "ꡂ꡴ꡃ",
+    "latin": "giN",
+    "code": "5.6.6",
+    "chinese": "敬"
+  },
+  {
+    "baspas": "ꡆ ꡦ",
+    "latin": "džė",
+    "code": "5.6.7",
+    "chinese": "者"
+  },
+  {
+    "baspas": "ꡝꡧꡦ",
+    "latin": "'u»ė",
+    "code": "5.6.8",
+    "chinese": "月"
+  },
+  {
+    "baspas": "ꡆ꡴",
+    "latin": "dži",
+    "code": "5.6.9",
+    "chinese": "支"
+  },
+  {
+    "baspas": "ꡏ꡴",
+    "latin": "mi",
+    "code": "5.6.10",
+    "chinese": "米"
+  },
+  {
+    "baspas": "ꡙꡦꡃ",
+    "latin": "lėN",
+    "code": "5.6.11",
+    "chinese": "粮"
+  },
+  {
+    "baspas": "ꡖ꡴ꡓ",
+    "latin": "·iw",
+    "code": "5.6.12",
+    "chinese": "优"
+  },
+  {
+    "baspas": "ꡛꡦ꡶",
+    "latin": "sėu",
+    "code": "5.6.13",
+    "chinese": "卹"
+  },
+  {
+    "baspas": "ꡗꡃ",
+    "latin": "jaN",
+    "code": "5.6.14",
+    "chinese": "养"
+  },
+  {
+    "baspas": "ꡚ꡺ꡏ",
+    "latin": "š1em",
+    "code": "5.6.15",
+    "chinese": "赡"
+  },
+  {
+    "baspas": "ꡏ꡺ꡓ",
+    "latin": "mew",
+    "code": "5.6.16",
+    "chinese": "庙"
+  },
+  {
+    "baspas": "ꡝꡦ꡶",
+    "latin": "'ėu",
+    "code": "5.6.17",
+    "chinese": "宇"
+  },
+  {
+    "baspas": "ꡛ꡶ꡋ",
+    "latin": "sun",
+    "code": "5.6.18",
+    "chinese": "损"
+  },
+  {
+    "baspas": "ꡣꡧꡗ",
+    "latin": "Äu»aj",
+    "code": "5.6.19",
+    "chinese": "坏"
+  },
+  {
+    "baspas": "ꡕ꡶꡺",
+    "latin": "zue",
+    "code": "5.6.20",
+    "chinese": "随"
+  },
+  {
+    "baspas": "ꡒ꡴",
+    "latin": "dzi",
+    "code": "5.6.21",
+    "chinese": "即"
+  },
+  {
+    "baspas": "ꡛ꡴ꡓ",
+    "latin": "siw",
+    "code": "5.6.22",
+    "chinese": "修"
+  },
+  {
+    "baspas": "ꡣ꡾ꡋ",
+    "latin": "Äon",
+    "code": "5.6.23",
+    "chinese": "完"
+  },
+  {
+    "baspas": "ꡒꡓ",
+    "latin": "dzaw",
+    "code": "5.6.24",
+    "chinese": "作"
+  },
+  {
+    "baspas": "ꡗꡃ",
+    "latin": "jaN",
+    "code": "5.6.25",
+    "chinese": "养"
+  },
+  {
+    "baspas": "ꡣ꡴ꡓ",
+    "latin": "Äiw",
+    "code": "5.6.26",
+    "chinese": "后"
+  },
+  {
+    "baspas": "ꡒ꡴ꡋ",
+    "latin": "dzin",
+    "code": "5.6.27",
+    "chinese": "进"
+  },
+  {
+    "baspas": "ꡃ꡺ꡏ",
+    "latin": "Nem",
+    "code": "5.6.28",
+    "chinese": "严"
+  },
+  {
+    "baspas": "ꡂꡦ",
+    "latin": "gė",
+    "code": "5.6.29",
+    "chinese": "加"
+  },
+  {
+    "baspas": "ꡲꡦ꡶ꡋ",
+    "latin": "ħėun",
+    "code": "5.6.30",
+    "chinese": "训"
+  },
+  {
+    "baspas": "ꡲ꡶꡺",
+    "latin": "ħue",
+    "code": "5.6.31",
+    "chinese": "诲"
+  },
+  {
+    "baspas": "ꡂꡦꡃ",
+    "latin": "gėN",
+    "code": "5.6.32",
+    "chinese": "讲"
+  },
+  {
+    "baspas": "ꡕ꡴",
+    "latin": "zi",
+    "code": "5.6.33",
+    "chinese": "习"
+  },
+  {
+    "baspas": "ꡈꡓ",
+    "latin": "taw",
+    "code": "5.6.34",
+    "chinese": "道"
+  },
+  {
+    "baspas": "ꡗ꡴",
+    "latin": "ji",
+    "code": "5.6.35",
+    "chinese": "艺"
+  },
+  {
+    "baspas": "ꡓ꡶",
+    "latin": "wu",
+    "code": "5.6.36",
+    "chinese": "务"
+  },
+  {
+    "baspas": "ꡭꡦꡓ",
+    "latin": "jėw",
+    "code": "5.6.37",
+    "chinese": "要"
+  },
+  {
+    "baspas": "ꡚ꡴ꡃ",
+    "latin": "š1iN",
+    "code": "5.6.38",
+    "chinese": "成"
+  },
+  {
+    "baspas": "ꡐꡗ",
+    "latin": "tsaj",
+    "code": "5.6.39",
+    "chinese": "材"
+  },
+  {
+    "baspas": "ꡔ꡺ꡓ",
+    "latin": "žew",
+    "code": "5.6.40",
+    "chinese": "若"
+  },
+  {
+    "baspas": "ꡊꡜ꡴ꡗ",
+    "latin": "dhij",
+    "code": "5.7.1",
+    "chinese": "德"
+  },
+  {
+    "baspas": "ꡲꡦ꡴ꡃ",
+    "latin": "ħėiN",
+    "code": "5.7.2",
+    "chinese": "行"
+  },
+  {
+    "baspas": "ꡓ꡶ꡋ",
+    "latin": "wun",
+    "code": "5.7.3",
+    "chinese": "文"
+  },
+  {
+    "baspas": "ꡲꡦꡓ",
+    "latin": "ħėw",
+    "code": "5.7.4",
+    "chinese": "学"
+  },
+  {
+    "baspas": "ꡅꡦꡓ",
+    "latin": "tšÁėw",
+    "code": "5.7.5",
+    "chinese": "超"
+  },
+  {
+    "baspas": "ꡅꡦ꡶",
+    "latin": "tšÁėu",
+    "code": "5.7.6",
+    "chinese": "出"
+  },
+  {
+    "baspas": "ꡚ꡴",
+    "latin": "š1i",
+    "code": "5.7.7",
+    "chinese": "时"
+  },
+  {
+    "baspas": "ꡎ꡶꡺",
+    "latin": "bue",
+    "code": "5.7.8",
+    "chinese": "辈"
+  },
+  {
+    "baspas": "ꡆ ꡦ",
+    "latin": "džė",
+    "code": "5.7.9",
+    "chinese": "者"
+  },
+  {
+    "baspas": "ꡃ꡴ꡓ",
+    "latin": "Niw",
+    "code": "5.7.10",
+    "chinese": "有"
+  },
+  {
+    "baspas": "ꡛꡜ꡴",
+    "latin": "shi",
+    "code": "5.7.11",
+    "chinese": "司"
+  },
+  {
+    "baspas": "ꡎꡓ",
+    "latin": "baw",
+    "code": "5.7.12",
+    "chinese": "保"
+  },
+  {
+    "baspas": "ꡂꡦ꡶",
+    "latin": "gėu",
+    "code": "5.7.13",
+    "chinese": "举"
+  },
+  {
+    "baspas": "ꡛꡦ꡶",
+    "latin": "sėu",
+    "code": "5.7.14",
+    "chinese": "肃"
+  },
+  {
+    "baspas": "ꡆ꡴ꡃ",
+    "latin": "džiN",
+    "code": "5.7.15",
+    "chinese": "政"
+  },
+  {
+    "baspas": "ꡙ꡺ꡏ",
+    "latin": "lem",
+    "code": "5.7.16",
+    "chinese": "廉"
+  },
+  {
+    "baspas": "꡿ꡃ",
+    "latin": "ħu»aN",
+    "code": "5.7.17",
+    "chinese": "访"
+  },
+  {
+    "baspas": "ꡛꡜ꡴",
+    "latin": "shi",
+    "code": "5.7.18",
+    "chinese": "司"
+  },
+  {
+    "baspas": "ꡉ꡴",
+    "latin": "tÁi",
+    "code": "5.7.19",
+    "chinese": "体"
+  },
+  {
+    "baspas": "꡿꡶",
+    "latin": "ħu»u",
+    "code": "5.7.20",
+    "chinese": "覆"
+  },
+  {
+    "baspas": "ꡛꡦꡃ",
+    "latin": "sėN",
+    "code": "5.7.21",
+    "chinese": "相"
+  },
+  {
+    "baspas": "ꡈ꡶ꡃ",
+    "latin": "tuN",
+    "code": "5.7.22",
+    "chinese": "同"
+  },
+  {
+    "baspas": "ꡗ꡴",
+    "latin": "ji",
+    "code": "5.7.23",
+    "chinese": "以"
+  },
+  {
+    "baspas": "ꡌ꡶꡺",
+    "latin": "pue",
+    "code": "5.7.24",
+    "chinese": "备"
+  },
+  {
+    "baspas": "ꡛꡧꡦꡋ",
+    "latin": "su»ėn",
+    "code": "5.7.25",
+    "chinese": "选"
+  },
+  {
+    "baspas": "ꡗꡦ꡶ꡃ",
+    "latin": "jėuN",
+    "code": "5.7.26",
+    "chinese": "用"
+  },
+  {
+    "baspas": "ꡎ꡶ꡋ",
+    "latin": "bun",
+    "code": "5.7.27",
+    "chinese": "本"
+  },
+  {
+    "baspas": "ꡙ꡶",
+    "latin": "lu",
+    "code": "5.7.28",
+    "chinese": "路"
+  },
+  {
+    "baspas": "ꡒ꡶ꡃ",
+    "latin": "dzuN",
+    "code": "5.7.29",
+    "chinese": "总"
+  },
+  {
+    "baspas": "ꡂ꡾ꡋ",
+    "latin": "gon",
+    "code": "5.7.30",
+    "chinese": "管"
+  },
+  {
+    "baspas": "꡿꡶",
+    "latin": "ħu»u",
+    "code": "5.7.31",
+    "chinese": "府"
+  },
+  {
+    "baspas": "ꡈ꡴",
+    "latin": "ti",
+    "code": "5.7.32",
+    "chinese": "提"
+  },
+  {
+    "baspas": "ꡂꡦ꡶",
+    "latin": "gėu",
+    "code": "5.7.33",
+    "chinese": "举"
+  },
+  {
+    "baspas": "ꡔꡦ꡶",
+    "latin": "žėu",
+    "code": "5.7.34",
+    "chinese": "儒"
+  },
+  {
+    "baspas": "ꡲꡦꡓ",
+    "latin": "ħėw",
+    "code": "5.7.35",
+    "chinese": "学"
+  },
+  {
+    "baspas": "ꡛꡦ꡶",
+    "latin": "sėu",
+    "code": "5.7.36",
+    "chinese": "肃"
+  },
+  {
+    "baspas": "ꡆ꡴ꡃ",
+    "latin": "džiN",
+    "code": "5.7.37",
+    "chinese": "政"
+  },
+  {
+    "baspas": "ꡙ꡺ꡏ",
+    "latin": "lem",
+    "code": "5.7.38",
+    "chinese": "廉"
+  },
+  {
+    "baspas": "꡿ꡃ",
+    "latin": "ħu»aN",
+    "code": "5.7.39",
+    "chinese": "访"
+  },
+  {
+    "baspas": "ꡛꡜ꡴",
+    "latin": "shi",
+    "code": "5.7.40",
+    "chinese": "司"
+  },
+  {
+    "baspas": "ꡛꡧꡦꡋ",
+    "latin": "su»ėn",
+    "code": "5.8.1",
+    "chinese": "宣"
+  },
+  {
+    "baspas": "ꡏ꡴ꡃ",
+    "latin": "miN",
+    "code": "5.8.2",
+    "chinese": "明"
+  },
+  {
+    "baspas": "ꡂꡦꡓ",
+    "latin": "gėw",
+    "code": "5.8.3",
+    "chinese": "教"
+  },
+  {
+    "baspas": "ꡲꡧ",
+    "latin": "ħu»a",
+    "code": "5.8.4",
+    "chinese": "化"
+  },
+  {
+    "baspas": "ꡏ꡺ꡋ",
+    "latin": "men",
+    "code": "5.8.5",
+    "chinese": "勉"
+  },
+  {
+    "baspas": "ꡙ꡴",
+    "latin": "li",
+    "code": "5.8.6",
+    "chinese": "励"
+  },
+  {
+    "baspas": "ꡲꡦꡓ",
+    "latin": "ħėw",
+    "code": "5.8.7",
+    "chinese": "学"
+  },
+  {
+    "baspas": "ꡲꡦꡓ",
+    "latin": "ħėw",
+    "code": "5.8.8",
+    "chinese": "校"
+  },
+  {
+    "baspas": "꡿ ꡏ",
+    "latin": "ħu»am",
+    "code": "5.8.9",
+    "chinese": "凡"
+  },
+  {
+    "baspas": "ꡏ꡺ꡓ",
+    "latin": "mew",
+    "code": "5.8.10",
+    "chinese": "庙"
+  },
+  {
+    "baspas": "ꡲꡦꡓ",
+    "latin": "ħėw",
+    "code": "5.8.11",
+    "chinese": "学"
+  },
+  {
+    "baspas": "ꡂ꡶ꡃ",
+    "latin": "guN",
+    "code": "5.8.12",
+    "chinese": "公"
+  },
+  {
+    "baspas": "ꡄꡜ꡴",
+    "latin": "tšhi",
+    "code": "5.8.13",
+    "chinese": "事"
+  },
+  {
+    "baspas": "ꡆ ꡦ꡶",
+    "latin": "džėu",
+    "code": "5.8.14",
+    "chinese": "诸"
+  },
+  {
+    "baspas": "ꡔ꡴ꡋ",
+    "latin": "žin",
+    "code": "5.8.15",
+    "chinese": "人"
+  },
+  {
+    "baspas": "ꡓ꡶",
+    "latin": "wu",
+    "code": "5.8.16",
+    "chinese": "毋"
+  },
+  {
+    "baspas": "ꡊꡜ꡴ꡗ",
+    "latin": "dhij",
+    "code": "5.8.17",
+    "chinese": "得"
+  },
+  {
+    "baspas": "ꡒꡦ꡶",
+    "latin": "dzėu",
+    "code": "5.8.18",
+    "chinese": "沮"
+  },
+  {
+    "baspas": "ꡔ꡺ꡓ",
+    "latin": "žew",
+    "code": "5.8.19",
+    "chinese": "扰"
+  },
+  {
+    "baspas": "ꡂꡦ꡶",
+    "latin": "žew",
+    "code": "5.8.20",
+    "chinese": "据"
+  },
+  {
+    "baspas": "ꡣ꡼",
+    "latin": "Äo",
+    "code": "5.8.21",
+    "chinese": "合"
+  },
+  {
+    "baspas": "ꡲꡦ꡴ꡃ",
+    "latin": "ħėiN",
+    "code": "5.8.22",
+    "chinese": "行"
+  },
+  {
+    "baspas": "ꡔꡦ꡶",
+    "latin": "žėu",
+    "code": "5.8.23",
+    "chinese": "儒"
+  },
+  {
+    "baspas": "ꡔ꡴ꡋ",
+    "latin": "žin",
+    "code": "5.8.24",
+    "chinese": "人"
+  },
+  {
+    "baspas": "ꡄꡜ꡴",
+    "latin": "tšhi",
+    "code": "5.8.25",
+    "chinese": "事"
+  },
+  {
+    "baspas": "ꡙ꡴",
+    "latin": "li",
+    "code": "5.8.26",
+    "chinese": "理"
+  },
+  {
+    "baspas": "ꡆ꡺ꡓ",
+    "latin": "džew",
+    "code": "5.8.27",
+    "chinese": "照"
+  },
+  {
+    "baspas": "ꡖ꡴",
+    "latin": "·i",
+    "code": "5.8.28",
+    "chinese": "依"
+  },
+  {
+    "baspas": "ꡗ꡴",
+    "latin": "ji",
+    "code": "5.8.29",
+    "chinese": "以"
+  },
+  {
+    "baspas": "ꡂꡦꡃ",
+    "latin": "gėN",
+    "code": "5.8.30",
+    "chinese": "降"
+  },
+  {
+    "baspas": "ꡚ꡴ꡃ",
+    "latin": "š1iN",
+    "code": "5.9.1",
+    "chinese": "圣"
+  },
+  {
+    "baspas": "ꡆ꡴",
+    "latin": "dži",
+    "code": "5.9.2",
+    "chinese": "旨"
+  },
+  {
+    "baspas": "ꡚ꡴",
+    "latin": "š1i",
+    "code": "5.9.3",
+    "chinese": "施"
+  },
+  {
+    "baspas": "ꡲꡦ꡴ꡃ",
+    "latin": "ħėiN",
+    "code": "5.9.4",
+    "chinese": "行"
+  },
+  {
+    "baspas": "ꡎ꡶꡺",
+    "latin": "bue",
+    "code": "5.9.5",
+    "chinese": "彼"
+  },
+  {
+    "baspas": "ꡣ꡶꡺",
+    "latin": "Äue",
+    "code": "5.9.6",
+    "chinese": "或"
+  },
+  {
+    "baspas": "ꡚ꡴",
+    "latin": "š1i",
+    "code": "5.9.7",
+    "chinese": "恃"
+  },
+  {
+    "baspas": "ꡑꡜ꡴",
+    "latin": "tsÁhi",
+    "code": "5.9.8",
+    "chinese": "此"
+  },
+  {
+    "baspas": "꡿꡴",
+    "latin": "ħu»i",
+    "code": "5.9.9",
+    "chinese": "非"
+  },
+  {
+    "baspas": "ꡙ꡴",
+    "latin": "li",
+    "code": "5.9.10",
+    "chinese": "理"
+  },
+  {
+    "baspas": "ꡓꡃ",
+    "latin": "waN",
+    "code": "5.9.11",
+    "chinese": "妄"
+  },
+  {
+    "baspas": "ꡲꡦ꡴ꡃ",
+    "latin": "ħėiN",
+    "code": "5.9.12",
+    "chinese": "行"
+  },
+  {
+    "baspas": "ꡂ꡶꡺",
+    "latin": "gue",
+    "code": "5.9.13",
+    "chinese": "国"
+  },
+  {
+    "baspas": "ꡃ꡴ꡓ",
+    "latin": "Niw",
+    "code": "5.9.14",
+    "chinese": "有"
+  },
+  {
+    "baspas": "ꡚꡃ",
+    "latin": "š1aN",
+    "code": "5.9.15",
+    "chinese": "常"
+  },
+  {
+    "baspas": "ꡲꡦꡋ",
+    "latin": "ħėn",
+    "code": "5.9.16",
+    "chinese": "宪"
+  },
+  {
+    "baspas": "ꡋ꡴ꡃ",
+    "latin": "niN",
+    "code": "5.9.17",
+    "chinese": "宁"
+  },
+  {
+    "baspas": "ꡎ꡶",
+    "latin": "bu",
+    "code": "5.9.18",
+    "chinese": "不"
+  },
+  {
+    "baspas": "ꡆ꡴",
+    "latin": "dži",
+    "code": "5.9.19",
+    "chinese": "知"
+  },
+  {
+    "baspas": "ꡀꡦ꡶",
+    "latin": "kėu",
+    "code": "5.9.20",
+    "chinese": "惧"
+  },
+  {
+    "baspas": "ꡃ꡴",
+    "latin": "Ni",
+    "code": "5.9.21",
+    "chinese": "宜"
+  },
+  {
+    "baspas": "ꡙ꡴ꡃ",
+    "latin": "liN",
+    "code": "5.9.22",
+    "chinese": "令"
+  },
+  {
+    "baspas": "ꡆ ꡦ꡶ꡋ",
+    "latin": "džėun",
+    "code": "5.9.23",
+    "chinese": "准"
+  },
+  {
+    "baspas": "ꡑꡜ꡴",
+    "latin": "tsÁhi",
+    "code": "5.9.24",
+    "chinese": "此"
+  },
+  {
+    "baspas": "ꡆ꡴",
+    "latin": "dži",
+    "code": "5.10.1",
+    "chinese": "至"
+  },
+  {
+    "baspas": "ꡝꡧꡦꡋ",
+    "latin": "'u»ėn",
+    "code": "5.10.2",
+    "chinese": "元"
+  },
+  {
+    "baspas": "ꡛꡏ",
+    "latin": "sam",
+    "code": "5.10.3",
+    "chinese": "三"
+  },
+  {
+    "baspas": "ꡚ꡴",
+    "latin": "š1i",
+    "code": "5.10.4",
+    "chinese": "十"
+  },
+  {
+    "baspas": "ꡭ꡴",
+    "latin": "ji",
+    "code": "5.10.5",
+    "chinese": "一"
+  },
+  {
+    "baspas": "ꡋ꡺ꡋ",
+    "latin": "nen",
+    "code": "5.10.6",
+    "chinese": "年"
+  },
+  {
+    "baspas": "ꡑ꡴",
+    "latin": "tsÁi",
+    "code": "5.10.7",
+    "chinese": "七"
+  },
+  {
+    "baspas": "ꡝꡧꡦ",
+    "latin": "'u»ė",
+    "code": "5.10.8",
+    "chinese": "月"
+  },
+  {
+    "baspas": "ꡔ꡴",
+    "latin": "ži",
+    "code": "5.10.9",
+    "chinese": "日"
+  }
+]
